@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LS4</string>
+    <string name="signup_tv">Đăng ký tài khoản</string>
+    <string name="hint_username">Tên tài khoản</string>
+    <string name="hint_pwd_one">Nhập mật khẩu</string>
+    <string name="hint_pwd_two">Nhập lại mật khẩu</string>
+    <string name="txt_continue">Tiếp tục</string>
+    <string name="txt_signup_error">Mật khẩu không trùng khớp</string>
+    <string name="txt_info">Nhập thông tin cá nhân</string>
+    <string name="txt_phone">Nhập số điện thoại</string>
+    <string name="txt_email">Nhập email</string>
+    <string name="txt_name">Nhập tên đầy đủ</string>
+    <string name="txt_company">Nhập tên cơ quan</string>
+    <string name="txt_pwd">Nhập mật khẩu</string>
+    <string name="email_error">Email của bạn không đúng. Vui lòng nhập lại</string>
+    <string name="phone_error">SĐT của bạn không đúng. Vui lòng nhập lại</string>
+    <string name="name_error">Tên của bạn không đúng. Vui lòng nhập lại</string>
+    <string name="company_error">Cơ quan của bạn không đúng. Vui lòng nhập lại</string>
+    <string name="pwd_error">Mật khẩu của bạn quá ngắn. Vui lòng nhập lại</string>
+    <string name="txt_input_num">Nhập số</string>
+    <string name="txt_result">Kết quả</string>
+</resources>
